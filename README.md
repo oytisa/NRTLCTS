@@ -21,7 +21,6 @@ In the figure below “Bale” ecoregion was selected showing its extent and dis
 Now the application visualizes the forest cover in Bale. 
 ### Forest Cover Summary Statistics
 It displays the geographical distribution of forest areas and the respective forest cover by year in the selected Bale ecoregion based on Sentinel-satellite images of 10m spatial resolution as produced by ESRI.
-![ee-chart](https://github.com/oytisa/NRTLCTS/assets/25427373/db34f719-a432-4018-9774-410d3977f134)
 
  
  Click on **"Select District"** to select the district/woreda of your interest. 
@@ -51,8 +50,9 @@ Click **"Mirab Arsi"**
 Or Click **"Bale"**. 
  ```
  It will now compute the forest change for the selected ecoregion and display the map
- See the **Summary Statistics Chart** to the right.
- 
+ See the **Summary Statistics Chart** to the right. The figure below shows forest cover convertions from 20117 to 2022 when Bale ecoregion is selected.
+ ![ee-chart](https://github.com/oytisa/NRTLCTS/assets/25427373/db34f719-a432-4018-9774-410d3977f134)
+
  Switch to tab **"Earth Engine Chart"** to enlarge the graph
  
  Click **"Select District"**
