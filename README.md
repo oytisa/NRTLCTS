@@ -18,13 +18,11 @@ In the figure below “Bale” ecoregion was selected showing its extent and dis
 
  ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/165e4547-16fd-47f0-b67e-b59f04338691)
 
-
 Now the application visualizes the forest cover in Bale. It displays the geographical distribution of forest areas and the respective forest cover by year in the selected Bale ecoregion based on Sentinel-satellite images of 10m spatial resolution as produced by ESRI.
  
  Click on "Select District" to select the district/woreda of your interest. 
 
  ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/81f07b03-5592-4913-b1d4-f251902d5b80)
-
 
 Now it visualizes the extent of the selected woreda in white polygon, the corresponding forest cover and summary statistics as shown below.
 
@@ -38,14 +36,17 @@ Now let’s change the woreda of interest
 
 
 # Forest Cover Change
- Click "Forest Cover Change" or copy this link https://oytisa.users.earthengine.app/view/ffnf and paste to browser tab
+ ```
+Click "Forest Cover Change" or copy this link [https://oytisa.users.earthengine.app/view/ffnf](url) and paste to browser tab
  ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/723b8ebf-12c4-4881-b8b8-91522e9780ff)
 
 Click "Select zone"
  
- Click "Mirab Arsi"
+Click "Mirab Arsi"
  
- Or Click "Bale". It will now compute the forest change for the selected ecoregion and display the map
+Or Click "Bale". 
+ ``
+ It will now compute the forest change for the selected ecoregion and display the map
  See the Summary Statistics Chart to the right.
  
  Switch to tab "Earth Engine Chart" to enlarge the graph
@@ -66,24 +67,20 @@ or use the link  [https://oytisa.users.earthengine.app/view/forestcover ](url)
 # Landscape Change Explorer
 
  Click "Land Cover Change (LCTS)" or click this link [https://oytisa.users.earthengine.app/view/forestcover ](url)
- 
-
+ ````
+Select zone/district
 Select "2017" as initial year
-
 Click "2024" as final year
-
-
 Now Click "Show Changes"
- 
- 
 Click "Grass"
- 
+```
 
 ## user defined area of monitoring
- 
-
+ user can monitor the landcover and landcover change probabilities * at a point along line or within a polygon* drawn.
 Click draw to draw 
  
+![image](https://github.com/oytisa/NRTLCTS/assets/25427373/5aa6eb86-38a0-4c4e-8f39-379496d9eb8d)
 
 Click "Clear drawing"
 
+![image](https://github.com/oytisa/NRTLCTS/assets/25427373/ed44f22d-a4d7-4510-bd5e-16d9141c79d4)
