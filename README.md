@@ -40,8 +40,7 @@ Now let’s change the woreda of interest
 # Forest Cover Change
 
  - Click **"Forest Cover Change"** or copy this link [https://oytisa.users.earthengine.app/view/ffnf](url) and paste to browser tab
- ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/723b8ebf-12c4-4881-b8b8-91522e9780ff)
-
+ 
 - Click **"Select zone"**
  
 - Click **"Mirab Arsi"**
