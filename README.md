@@ -14,19 +14,7 @@ To open the Forest Cover Explorer,
 Navigate to [https://oytisa.users.earthengine.app/view/forestcover](url)
  Click **"Select Zone"**. 
  Click **"Bale"** for example in the dropdown list.
-In the figure below “Bale” ecoregion was selected showing its extent and districts represented with white polygons. The change shows the following categories
-```
-* Stable forest (FF)
-* Lost forest (FNF)
-* Gained forest (NFF)
-* Stable non-forest (NFNF)
 
-```
-This is depicted in the graph as per the IPCC guidelines for biomass invetory in the AFOLU sector in the following nomenclature as shown in the consequent figure;
-**F->F** = Forest land remaining Forestland
-**F->NF** = forestland converted to Non-forest land
-**NF->F** = Non-forest land converted to forestland
-**NF->NF** = Non-forest land remaining Non-forest land
  ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/165e4547-16fd-47f0-b67e-b59f04338691)
 
 Now the application visualizes the forest cover in Bale. 
@@ -61,7 +49,21 @@ Click **"Mirab Arsi"**
 Or Click **"Bale"**. 
  ```
  It will now compute the forest change for the selected ecoregion and display the map
- See the **Summary Statistics Chart** to the right. The figure below shows forest cover convertions from 20117 to 2022 when Bale ecoregion is selected.
+ See the **Summary Statistics Chart** to the right. 
+ In the figure below “Bale” ecoregion was selected showing its extent and districts represented with white polygons. The change shows the following categories
+```
+* Stable forest (FF)
+* Lost forest (FNF)
+* Gained forest (NFF)
+* Stable non-forest (NFNF)
+
+```
+This is depicted in the graph as per the IPCC guidelines for biomass invetory in the AFOLU sector in the following nomenclature as shown in the consequent figure;
+**F->F** = Forest land remaining Forestland
+**F->NF** = forestland converted to Non-forest land
+**NF->F** = Non-forest land converted to forestland
+**NF->NF** = Non-forest land remaining Non-forest land
+ The figure below shows forest cover convertions from 20117 to 2022 when Bale ecoregion is selected.
  ![ee-chart](https://github.com/oytisa/NRTLCTS/assets/25427373/db34f719-a432-4018-9774-410d3977f134)
 
  Switch to tab **"Earth Engine Chart"** to enlarge the graph
