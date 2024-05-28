@@ -20,12 +20,13 @@ In the figure below “Bale” ecoregion was selected showing its extent and dis
 * Lost forest (FNF)
 * Gained forest (NFF)
 * Stable non-forest (NFNF)
-This is depicted in the graph as per the IPCC guidelines for biomass invetory in the AFOLU sector as
+
+```
+This is depicted in the graph as per the IPCC guidelines for biomass invetory in the AFOLU sector in the following nomenclature as shown in the consequent figure;
 **F->F** = Forest land remaining Forestland
 **F->NF** = forestland converted to Non-forest land
 **NF->F** = Non-forest land converted to forestland
 **NF->NF** = Non-forest land remaining Non-forest land
-```
  ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/165e4547-16fd-47f0-b67e-b59f04338691)
 
 Now the application visualizes the forest cover in Bale. 
