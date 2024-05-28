@@ -45,16 +45,17 @@ Click "Select zone"
 Click "Mirab Arsi"
  
 Or Click "Bale". 
- ``
+ ```
  It will now compute the forest change for the selected ecoregion and display the map
  See the Summary Statistics Chart to the right.
  
- Switch to tab "Earth Engine Chart" to enlarge the graph
+ Switch to tab **"Earth Engine Chart"** to enlarge the graph
  
  Click "Select District"
  
  Click "Harena Buluk"
- 
+ ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/21168c0e-aac1-48cd-aa76-0b35b1d25602)
+
 Now it will display the forest cover change map and statistics of Harena Buluq district
  
  Switch to tab "Earth Engine Chart" to enlarge the summary statistics graph
@@ -67,7 +68,7 @@ or use the link  [https://oytisa.users.earthengine.app/view/forestcover ](url)
 # Landscape Change Explorer
 
  Click "Land Cover Change (LCTS)" or click this link [https://oytisa.users.earthengine.app/view/forestcover ](url)
- ````
+ ```
 Select zone/district
 Select "2017" as initial year
 Click "2024" as final year
@@ -76,7 +77,7 @@ Click "Grass"
 ```
 
 ## user defined area of monitoring
- user can monitor the landcover and landcover change probabilities * at a point along line or within a polygon* drawn.
+ User can monitor the landcover and landcover change probabilities * at a point along line or within a polygon* drawn.
 Click draw to draw 
  
 ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/5aa6eb86-38a0-4c4e-8f39-379496d9eb8d)
