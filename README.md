@@ -38,6 +38,7 @@ Now let’s change the woreda of interest
 
 
 # Forest Cover Change
+This application provides a visualization of the changes in selected ecoregions forest cover. It displays the geographical distribution of stable forest areas, newly gained forest areas, forest areas that have been lost, and areas that have remained non-forest.
 
  - Click **"Forest Cover Change"** or copy this link [https://oytisa.users.earthengine.app/view/ffnf](url) and paste to browser tab
  
@@ -58,11 +59,11 @@ Now let’s change the woreda of interest
 
 ```
 This is depicted in the graph as per the IPCC guidelines for biomass invetory in the AFOLU sector in the following nomenclature as shown in the consequent figure;
-**F->F** = Forest land remaining Forestland
-**F->NF** = forestland converted to Non-forest land
-**NF->F** = Non-forest land converted to forestland
-**NF->NF** = Non-forest land remaining Non-forest land
- The figure below shows forest cover convertions from 20117 to 2022 when Bale ecoregion is selected.
+- **F->F** = Forest land remaining Forestland
+- **F->NF** = forestland converted to Non-forest land
+- **NF->F** = Non-forest land converted to forestland
+- **NF->NF** = Non-forest land remaining Non-forest land
+ The figure below shows forest cover convertions from 2017 to 2022 when Bale ecoregion is selected.
  ![ee-chart](https://github.com/oytisa/NRTLCTS/assets/25427373/db34f719-a432-4018-9774-410d3977f134)
 
  Switch to tab **"Earth Engine Chart"** to enlarge the graph
