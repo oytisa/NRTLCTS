@@ -51,10 +51,10 @@ Now let’s change the woreda of interest
  See the **Summary Statistics Chart** to the right. 
  In the figure below “Bale” ecoregion was selected showing its extent and districts represented with white polygons. The change shows the following categories
 ```
-* Stable forest (FF)
-* Lost forest (FNF)
-* Gained forest (NFF)
-* Stable non-forest (NFNF)
+- Stable forest (FF)
+- Lost forest (FNF)
+- Gained forest (NFF)
+- Stable non-forest (NFNF)
 
 ```
 This is depicted in the graph as per the IPCC guidelines for biomass invetory in the AFOLU sector in the following nomenclature as shown in the consequent figure;
