@@ -38,16 +38,16 @@ Now let’s change the woreda of interest
 
 
 # Forest Cover Change
- ```
-Click **"Forest Cover Change"** or copy this link [https://oytisa.users.earthengine.app/view/ffnf](url) and paste to browser tab
+
+ - Click **"Forest Cover Change"** or copy this link [https://oytisa.users.earthengine.app/view/ffnf](url) and paste to browser tab
  ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/723b8ebf-12c4-4881-b8b8-91522e9780ff)
 
-Click **"Select zone"**
+- Click **"Select zone"**
  
-Click **"Mirab Arsi"**
+- Click **"Mirab Arsi"**
  
-Or Click **"Bale"**. 
- ```
+- Or Click **"Bale"**. 
+ 
  It will now compute the forest change for the selected ecoregion and display the map
  See the **Summary Statistics Chart** to the right. 
  In the figure below “Bale” ecoregion was selected showing its extent and districts represented with white polygons. The change shows the following categories
