@@ -12,15 +12,19 @@ The guide also includes instructions for selecting specific zones or districts/w
 This application provides a visualization of forest cover in Bale and Arsi landscapes. It displays the geographical distribution of forest areas and the respective forest cover by year in each landscape based on Sentinel-satellite images of 10m spatial resolution as produced by ESRI.
 To open the Forest Cover Explorer, 
 Navigate to [https://oytisa.users.earthengine.app/view/forestcover](url)
- Click "Select Zone". 
- Click "Bale" for example in the dropdown list.
+ Click **"Select Zone"**. 
+ Click **"Bale"** for example in the dropdown list.
 In the figure below “Bale” ecoregion was selected showing its extent and districts represented with white polygons
 
  ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/165e4547-16fd-47f0-b67e-b59f04338691)
 
-Now the application visualizes the forest cover in Bale. It displays the geographical distribution of forest areas and the respective forest cover by year in the selected Bale ecoregion based on Sentinel-satellite images of 10m spatial resolution as produced by ESRI.
+Now the application visualizes the forest cover in Bale. 
+### Forest Cover Summary Statistics
+It displays the geographical distribution of forest areas and the respective forest cover by year in the selected Bale ecoregion based on Sentinel-satellite images of 10m spatial resolution as produced by ESRI.
+![ee-chart](https://github.com/oytisa/NRTLCTS/assets/25427373/db34f719-a432-4018-9774-410d3977f134)
+
  
- Click on "Select District" to select the district/woreda of your interest. 
+ Click on **"Select District"** to select the district/woreda of your interest. 
 
  ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/81f07b03-5592-4913-b1d4-f251902d5b80)
 
@@ -29,7 +33,7 @@ Now it visualizes the extent of the selected woreda in white polygon, the corres
   ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/e3df735d-ebff-4827-b9d2-31f9184f5f28)
 
 Now let’s change the woreda of interest
- Click "Mena" to visualize forest cover of Mena woreda and cover statistics.
+ Click **"Mena"** to visualize forest cover of Mena woreda and cover statistics.
 
 
 ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/6ae62c7d-96e1-41ef-a2b8-e487f8c3992e)
@@ -37,23 +41,23 @@ Now let’s change the woreda of interest
 
 # Forest Cover Change
  ```
-Click "Forest Cover Change" or copy this link [https://oytisa.users.earthengine.app/view/ffnf](url) and paste to browser tab
+Click **"Forest Cover Change"** or copy this link [https://oytisa.users.earthengine.app/view/ffnf](url) and paste to browser tab
  ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/723b8ebf-12c4-4881-b8b8-91522e9780ff)
 
-Click "Select zone"
+Click **"Select zone"**
  
-Click "Mirab Arsi"
+Click **"Mirab Arsi"**
  
-Or Click "Bale". 
+Or Click **"Bale"**. 
  ```
  It will now compute the forest change for the selected ecoregion and display the map
- See the Summary Statistics Chart to the right.
+ See the **Summary Statistics Chart** to the right.
  
  Switch to tab **"Earth Engine Chart"** to enlarge the graph
  
- Click "Select District"
+ Click **"Select District"**
  
- Click "Harena Buluk"
+ Click **"Harena Buluk"**
  ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/21168c0e-aac1-48cd-aa76-0b35b1d25602)
 
 Now it will display the forest cover change map and statistics of Harena Buluq district
