@@ -38,7 +38,7 @@ Now let’s change the woreda of interest
 
 
 # Forest Cover Change
-This application provides a visualization of the changes in selected ecoregions forest cover. It displays the geographical distribution of stable forest areas, newly gained forest areas, forest areas that have been lost, and areas that have remained non-forest.
+This application provides a visualization of the changes in selected ecoregions forest cover. It displays the geographical distribution of stable forest areas, newly gained forest areas, forest areas that have been lost, and areas that have remained non-forest.Based on the 2015 Ethiopia  new forest definition (MEF 2015) a forest is 'Land spanning more than 0.5 ha covered by trees (including bamboo) (with a minimum width of 20m or not more than two‐thirds of its length) attaining a height of more than 2m and a canopy cover of more than 20% or trees with the potential to reach these thresholds in situ in due course. The PROCESSES OF CHANGE DETECTION adopted followed the Ethiopian FRL types of land use changes; non-forest land use change to forest as gain, and forest land use change to the non-forest land use as loss.
 
  - Click **"Forest Cover Change"** or copy this link [https://oytisa.users.earthengine.app/view/ffnf](url) and paste to browser tab
  
