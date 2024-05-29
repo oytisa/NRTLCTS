@@ -1,8 +1,13 @@
 ![farmAfricaLOGO](https://github.com/oytisa/NRTLCTS/assets/25427373/be2543f6-1f84-4b78-b53b-7c101a07c295)
 
 # $\textcolor{Green}{\textsf{Near Real Time Landscape Change Tracking System}}$  
+ <p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”This guide provides step-by-step instructions on how to use the NRTLCTS interface to track landuse/landcover of Bale and West Arsi ecoregions of Ethiopia. It visualizes forest cover, the changes in landuse and forest. It allows users to explore the geographical distribution of stable forest areas, newly gained forest areas, forest areas that have been lost, and areas that have remained non-forest.”>
+
+</p>
  ```
-This guide provides step-by-step instructions on how to use the NRTLCTS interface to track landuse/landcover of Bale and West Arsi ecoregions of Ethiopia. It visualizes forest cover, the changes in landuse and forest. It allows users to explore the geographical distribution of stable forest areas, newly gained forest areas, forest areas that have been lost, and areas that have remained non-forest.
+ ------------
 ```
 ## The Landscape Change Tracking System User Manual thus consists three interlinked sub-applications of the system yet can be visualized independently viz:
 ```
