@@ -107,6 +107,7 @@ Click "Clear drawing"
 ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/ed44f22d-a4d7-4510-bd5e-16d9141c79d4)
 
 # Landcover Explorer App
+$\color{#58A6FF}\textsf{\Large\&#x24D8;\kern{0.2cm}\normalsize Note}$
 The App explores the project area landscape level landuse.
 
 Click **"Landcover Explorer"** or 
