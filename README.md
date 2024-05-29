@@ -1,13 +1,16 @@
-# NRTLCTS
-# $\textcolor{red}{\textsf{Near Real Time Landscape Change Monitoring}}$  `#ffffff`
- This guide provides step-by-step instructions on how to use the LCTS interface to track landuse/landcover of Bale and West Arsi ecoregions of Ethiopia. It visualizes forest cover, the changes in landuse and forest. It allows users to explore the geographical distribution of stable forest areas, newly gained forest areas, forest areas that have been lost, and areas that have remained non-forest. 
+
+# $\textcolor{Green}{\textsf{Near Real Time Landscape Change Monitoring}}$  
+ ```diff
+- This guide provides step-by-step instructions on how to use the NRTLCTS interface to track landuse/landcover of Bale and West Arsi ecoregions of Ethiopia. It visualizes forest cover, the changes in landuse and forest. It allows users to explore the geographical distribution of stable forest areas, newly gained forest areas, forest areas that have been lost, and areas that have remained non-forest.
+```
 ## The Landscape Change Tracking System User Manual thus consists three interlinked sub-applications of the system yet can be visualized independently viz:
 ```
  1.	Forest Cover explorer
  2.	Forest Cover Change Explorer
  3.	Landscape Change Explorer
 ```
-__Note:__The guide also includes instructions for selecting specific zones or districts/woredas and accessing summary statistics for those areas. Overall, this guide is useful for anyone interested in studying and understanding forest cover changes in the selected ecoregions of Bale and West Arsi areas.
+$\color{#58A6FF}\textsf{\Large\&#x24D8;\kern{0.2cm}\normalsize Note}$
+The guide also includes instructions for selecting specific zones or districts/woredas and accessing summary statistics for those areas. Overall, this guide is useful for anyone interested in studying and understanding forest cover changes in the selected ecoregions of Bale and West Arsi areas.
 # Forest Cover Explorer
 This application provides a visualization of forest cover in Bale and Arsi landscapes. It displays the geographical distribution of forest areas and the respective forest cover by year in each landscape based on Sentinel-satellite images of 10m spatial resolution as produced by ESRI.
 To open the Forest Cover Explorer, 
@@ -21,7 +24,6 @@ Now the application visualizes the forest cover in Bale.
 ### Forest Cover Summary Statistics
 It displays the geographical distribution of forest areas and the respective forest cover by year in the selected Bale ecoregion based on Sentinel-satellite images of 10m spatial resolution as produced by ESRI.
 
- 
  Click on **"Select District"** to select the district/woreda of your interest. 
 
  ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/81f07b03-5592-4913-b1d4-f251902d5b80)
@@ -40,13 +42,10 @@ Now let’s change the woreda of interest
 # Forest Cover Change
 This application provides a visualization of the changes in selected ecoregions forest cover. It displays the geographical distribution of stable forest areas, newly gained forest areas, forest areas that have been lost, and areas that have remained non-forest.Based on the 2015 Ethiopia  new forest definition (MEF 2015) a forest is 'Land spanning more than 0.5 ha covered by trees (including bamboo) (with a minimum width of 20m or not more than two‐thirds of its length) attaining a height of more than 2m and a canopy cover of more than 20% or trees with the potential to reach these thresholds in situ in due course. The PROCESSES OF CHANGE DETECTION adopted followed the Ethiopian FRL types of land use changes; non-forest land use change to forest as gain, and forest land use change to the non-forest land use as loss.
 
- - Click **"Forest Cover Change"** or copy this link [https://oytisa.users.earthengine.app/view/ffnf](url) and paste to browser tab
- 
-- Click **"Select zone"**
- 
-- Click **"Mirab Arsi"**
- 
-- Or Click **"Bale"**. 
+ - Click **"Forest Cover Change"** or copy this link [https://oytisa.users.earthengine.app/view/ffnf](url) and paste to browser tab.
+ - Click **"Select zone"**
+ - Click **"Mirab Arsi"**
+ - Or Click **"Bale"**. 
  
  It will now compute the forest change for the selected ecoregion and display the map
  See the **Summary Statistics Chart** to the right. 
