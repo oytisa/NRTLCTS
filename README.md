@@ -105,8 +105,10 @@ Click draw to draw
 Click "Clear drawing"
 
 ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/ed44f22d-a4d7-4510-bd5e-16d9141c79d4)
-*Landcover Explorer App
-The App explores the project area landscape level landuse
+
+# Landcover Explorer App
+The App explores the project area landscape level landuse.
+
 Click **"Landcover Explorer"** or 
 Navigate to [https://oytisa.users.earthengine.app/view/falanduse](url). The following interface will appear.
 
