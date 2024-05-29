@@ -109,9 +109,14 @@ Click "Clear drawing"
 The App explores the project area landscape level landuse
 Click **"Landcover Explorer"** or 
 Navigate to [https://oytisa.users.earthengine.app/view/falanduse](url). The following interface will appear.
+
 ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/273e9ee5-db2f-4f3f-9fe3-6104684bd6d0)
+
 To see the *current landuse for* january to june 204 forexample, adjust the date range
+
   ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/56f7993c-b1c9-4097-9f82-3f7626df0687)
+  
 
 click on **update**
+
 ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/dc9aec2a-4b4b-421c-9888-7c30a5d38529)
