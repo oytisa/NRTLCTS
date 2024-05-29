@@ -1,5 +1,5 @@
 # NRTLCTS
-# Near Real Time Landscape Change Monitoring
+# $\textcolor{red}{\textsf{Near Real Time Landscape Change Monitoring}}$  `#ffffff`
  This guide provides step-by-step instructions on how to use the LCTS interface to track landuse/landcover of Bale and West Arsi ecoregions of Ethiopia. It visualizes forest cover, the changes in landuse and forest. It allows users to explore the geographical distribution of stable forest areas, newly gained forest areas, forest areas that have been lost, and areas that have remained non-forest. 
 ## The Landscape Change Tracking System User Manual thus consists three interlinked sub-applications of the system yet can be visualized independently viz:
 ```
@@ -7,7 +7,7 @@
  2.	Forest Cover Change Explorer
  3.	Landscape Change Explorer
 ```
-The guide also includes instructions for selecting specific zones or districts/woredas and accessing summary statistics for those areas. Overall, this guide is useful for anyone interested in studying and understanding forest cover changes in the selected ecoregions of Bale and West Arsi areas.
+__Note:__The guide also includes instructions for selecting specific zones or districts/woredas and accessing summary statistics for those areas. Overall, this guide is useful for anyone interested in studying and understanding forest cover changes in the selected ecoregions of Bale and West Arsi areas.
 # Forest Cover Explorer
 This application provides a visualization of forest cover in Bale and Arsi landscapes. It displays the geographical distribution of forest areas and the respective forest cover by year in each landscape based on Sentinel-satellite images of 10m spatial resolution as produced by ESRI.
 To open the Forest Cover Explorer, 
