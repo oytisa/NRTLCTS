@@ -3,8 +3,7 @@
 # $\textcolor{Green}{\textsf{Near Real Time Landscape Change Tracking System}}$  
  ```diff
 This guide provides step-by-step instructions on how to use the NRTLCTS interface to track landuse/landcover of Bale and West Arsi ecoregions of Ethiopia. It visualizes forest cover, the changes in landuse and forest. It allows users to explore the geographical distribution of stable forest areas, newly gained forest areas, forest areas that have been lost, and areas that have remained non-forest.
-/diff
-```
+/diff```
 ## The Landscape Change Tracking System User Manual thus consists three interlinked sub-applications of the system yet can be visualized independently viz:
 ```
  1.	Forest Cover explorer
