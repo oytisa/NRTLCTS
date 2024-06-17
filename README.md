@@ -1,10 +1,15 @@
 ![farmAfricaLOGO](https://github.com/oytisa/NRTLCTS/assets/25427373/be2543f6-1f84-4b78-b53b-7c101a07c295)
 
-# $\textcolor{Green}{\textsf{Near Real Time Landscape Change Tracking System}}$  
+# $\textcolor{Green}{\textsf{A piloted landscape change tracking system in the Bale Ecoregion}}$  
  
 
 This guide provides step-by-step instructions on how to use the $\textcolor{Green}{\textsf{NRTLCTS}}$   interface to track landuse/landcover of Bale and West Arsi ecoregions of Ethiopia. It visualizes forest cover, the changes in landuse and forest. It allows users to explore the geographical distribution of stable forest areas, newly gained forest areas, forest areas that have been lost, and areas that have remained non-forest.
+##
+High-resolution, open, accurate, comparable, and timely land use maps are critical for decision-makers in many industry sectors and developing nations. These maps improve understanding of important topics such as food security, land use planning, surface water, and resource management planning. In addition, national government resource agencies use land use/land cover as a basis for understanding trends in the country's natural capital, which helps define land planning priorities and is the basis of budget allocations.
 
+Land use and land cover maps provide a snapshot of an area at a specific moment, yet natural processes and human activities constantly reshape the landscape. Often, the availability of updated maps lags behind data collection by several years. However, our innovative deep learning approach with the Sentinel-2 10m Land Use/Land Cover Time Series enables us to generate a full year of observations within days. This capability allows us to deliver the most current analysis of land use over the past year and utilize the time series to identify changes swiftly.
+
+For enhanced analysis of these changes, we have developed the Sentinel-2 a piloted landscape change tracking system in the Bale Ecoregion, which facilitates dynamic change analysis while exploring the map.
 
  
 ## The Landscape Change Tracking System User Manual thus consists three interlinked sub-applications of the system yet can be visualized independently viz:
@@ -15,6 +20,7 @@ This guide provides step-by-step instructions on how to use the $\textcolor{Gree
 ```
 $\color{#58A6FF}\textsf{\Large\&#x24D8;\kern{0.2cm}\normalsize Note}$
 The guide also includes instructions for selecting specific zones or districts/woredas and accessing summary statistics for those areas. Overall, this guide is useful for anyone interested in studying and understanding forest cover changes in the selected ecoregions of Bale and West Arsi areas.
+
 # Forest Cover Explorer
 This application provides a visualization of forest cover in Bale and Arsi landscapes. It displays the geographical distribution of forest areas and the respective forest cover by year in each landscape based on Sentinel-satellite images of 10m spatial resolution as produced by ESRI.
 To open the Forest Cover Explorer, 
