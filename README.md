@@ -54,7 +54,7 @@ This application provides a visualization of the changes in selected ecoregions 
 
  - Click **"Forest Cover Change"** or copy this link [https://oytisa.users.earthengine.app/view/ffnf](url) and paste to browser tab.
  - Click **"Select zone"**
- - Click **"Mirab Arsi"**
+ - Click **"West Arsi"**
  - Or Click **"Bale"**. 
  
  It will now compute the forest change for the selected ecoregion and display the map
