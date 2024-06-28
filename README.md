@@ -1,4 +1,4 @@
-![farmAfricaLOGO](https://github.com/oytisa/NRTLCTS/assets/25427373/be2543f6-1f84-4b78-b53b-7c101a07c295)
+![f_n_s_logo1](https://github.com/oytisa/NRTLCTS/assets/25427373/9b4f1edf-d7d9-4987-939c-7c27235ba7b2)
 
 # $\textcolor{Green}{\textsf{A piloted landscape change tracking system in the Bale Ecoregion}}$  
  
