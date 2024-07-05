@@ -13,18 +13,9 @@ The current versions of the applications were built on existing time series of u
 
 For enhanced analysis of these changes, we have developed the Sentinel-2 a piloted landscape change tracking system in the Bale Ecoregion, which facilitates dynamic change analysis while exploring the map. The system was built on GEE.
 Meet Earth Engine
-Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities. Scientists, researchers, and developers use Earth Engine to detect changes, map trends, and quantify differences on the Earth's surface. Earth Engine is now available for commercial use, and remains free for academic and research use.
+Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities. Scientists, researchers, and developers use Earth Engine to detect changes, map trends, and quantify differences on the Earth's surface. Earth Engine is now available for commercial use, and remains free for academic and research use.   
+![image](https://github.com/oytisa/NRTLCTS/assets/25427373/0bcc6e21-5c78-4fc7-b9fd-c4cb826b1dff)
 
-Satellite imagery     
-![image](https://github.com/oytisa/NRTLCTS/assets/25427373/fd92b769-56e4-437c-90bf-344519b71b31)
-___________
-Your algorithms
-![image](https://github.com/oytisa/NRTLCTS/assets/25427373/01f8a846-a3b5-4b1a-8cfe-fc39584734d4)
-___________
-Real World Applications
-![image](https://github.com/oytisa/NRTLCTS/assets/25427373/7568f3c3-d81c-4c68-9493-05317355016a)
-
- 
 ## The Landscape Change Tracking System User Manual thus consists three interlinked sub-applications of the system yet can be visualized independently viz:
 ```
  1.	Forest Cover explorer
