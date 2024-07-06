@@ -117,13 +117,11 @@ Click "Clear drawing"
 ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/ed44f22d-a4d7-4510-bd5e-16d9141c79d4)
 ## Near Real Time change monitoring
 The near real time shows BER level exploring of landscape changes at monthly level.
-
-The result can be downloaded as png, svg and csv
-example png: ![ee-chart (1)](https://github.com/oytisa/NRTLCTS/assets/25427373/3b36d66f-3e3d-4afb-b844-56b2f2006938)
-example csv and user defined charts from the csv file downloaded
+### The result can be downloaded as png, svg and csv
+### example png: 
+![ee-chart (1)](https://github.com/oytisa/NRTLCTS/assets/25427373/3b36d66f-3e3d-4afb-b844-56b2f2006938)
+### example csv and user defined charts from the csv file downloaded
 ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/452d91ed-8e3e-4b89-9794-55f8a7a13eea)
-
-
 
 
 # NRT Landcover Explorer App
