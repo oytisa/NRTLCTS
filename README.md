@@ -96,7 +96,7 @@ Click "Forest Cover"
 or use the link  [https://oytisa.users.earthengine.app/view/forestcover ](url)
 
 # Landscape Change Explorer
-
+ The **Landscape Change Explorer** showcases various aspects of Earth Engine, including image analysis, time series analysis, charting, mapping, classification, and app development. The document is organized into a series of folders, each containing code examples and exercises that demonstrate different functionalities and techniques.
  Click "Land Cover Change (LCTS)" or click this link [https://oytisa.users.earthengine.app/view/forestcover ](url)
  ```
 Select zone/district
@@ -115,6 +115,16 @@ Click draw to draw
 Click "Clear drawing"
 
 ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/ed44f22d-a4d7-4510-bd5e-16d9141c79d4)
+## Near Real Time change monitoring
+The near real time shows BER level exploring of landscape changes at monthly level.
+
+The result can be downloaded as png, svg and csv
+example png: ![ee-chart (1)](https://github.com/oytisa/NRTLCTS/assets/25427373/3b36d66f-3e3d-4afb-b844-56b2f2006938)
+example csv and user defined charts from the csv file downloaded
+![image](https://github.com/oytisa/NRTLCTS/assets/25427373/452d91ed-8e3e-4b89-9794-55f8a7a13eea)
+
+
+
 
 # NRT Landcover Explorer App
 $\color{#58A6FF}\textsf{\Large\&#x24D8;\kern{0.2cm}\normalsize Note}$
