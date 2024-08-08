@@ -30,18 +30,26 @@ To open the Forest Cover Explorer,
 Navigate to [https://oytisa.users.earthengine.app/view/forestcover](url)
  Click **"Select Zone"**. 
  Click **"Bale_16"** for example in the dropdown list.
+ 
 ![image](https://github.com/user-attachments/assets/05a4737a-ecea-4907-85ee-16a30ea09e2d)
 
 Now the application visualizes the forest cover in Bale. 
 ### Forest Cover Summary Statistics
-It displays the geographical distribution of forest areas and the respective forest cover by year in the selected Bale ecoregion based on Sentinel-satellite images of 10m spatial resolution as produced by ESRI.
+It displays the geographical distribution of forest areas and the respective forest cover by year in the selected Bale ecoregion based on Sentinel-satellite images of 10m spatial resolution as produced by ESRI.  
+
 [![image](https://github.com/user-attachments/assets/28dbe7e0-c5e4-45ec-a94f-9afb89681533)](https://oytisa.users.earthengine.app/view/forestcover)
+
  Click on **"Select District"** to select the district/woreda of your interest. 
+ 
  ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/81f07b03-5592-4913-b1d4-f251902d5b80)
+ 
 Now it visualizes the extent of the selected woreda in white polygon, the corresponding forest cover and summary statistics as shown below.
+
   ![image](https://github.com/user-attachments/assets/d5e25562-0844-4a0d-a288-16a7d5970b51)
+  
 Now let’s change the woreda of interest
  Click **"Mena"** to visualize forest cover of Mena woreda and cover statistics.
+ 
 ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/6ae62c7d-96e1-41ef-a2b8-e487f8c3992e)
 
 # Forest Cover Change
@@ -52,6 +60,7 @@ This application provides a visualization of the changes in selected ecoregions 
  - Click **"east_Bale_5"**
  - Or. Click **"West_Arsi_4"**
   It will now compute the forest change for the selected ecoregion and display the map
+
  ![image](https://github.com/user-attachments/assets/5765415b-dc13-4121-b248-d40db10be313)
 
  See the **Summary Statistics Chart** to the right. 
@@ -68,18 +77,24 @@ This is depicted in the graph as per the IPCC guidelines for biomass invetory in
 - **Gained forest** = Non-forest land converted to forestland
 - **Stable non-forest** = Non-forest land remaining Non-forest land
  The figure below shows forest cover convertions from 2017 to 2022 when Bale_16 ecoregion is selected.
+
 ![ee-chart (1)](https://github.com/user-attachments/assets/92e548dd-90a0-47e1-ae8e-fbd5e3a63324)
+
  Switch to tab **"Earth Engine Chart"** to enlarge the graph
   Click **"Select District"**
   Click **"Agarfa"**
+  
 ![image](https://github.com/user-attachments/assets/19f3276d-e70c-497a-9f51-769fbf7075bb)
+
 Now it will display the forest cover change map and statistics of Agarfa district
   Switch to tab "Earth Engine Chart" to enlarge the summary statistics graph
+  
 ![ee-chart (2)](https://github.com/user-attachments/assets/8fca0ec7-663f-4b5e-b21f-3fe542287d9a)
 
  # Landscape Change Explorer
  The **Landscape Change Explorer** showcases various aspects of Earth Engine, including image analysis, time series analysis, charting, mapping, classification, and app development. The document is organized into a series of folders, each containing code examples and exercises that demonstrate different functionalities and techniques.
  Click "Land Cover Change (LCTS)" or click this link [https://oytisa.users.earthengine.app/view/forestcover ](url)
+
  ![image](https://github.com/user-attachments/assets/608d2140-8716-4704-9624-f4260bcecc0a)
 
  ```
@@ -89,27 +104,39 @@ Click "2024" as final year
 Now Click "Show Changes"
 Click "Grass"
 ```
-![image](https://github.com/user-attachments/assets/dce47c3f-1f68-465f-95d5-b59612e4ef9c)
+![image](https://github.com/user-attachments/assets/dce47c3f-1f68-465f-95d5-b59612e4ef9c) 
+
 ## user defined area of monitoring
  User can monitor the landcover and landcover change probabilities * at a point along line or within a polygon* drawn.
 Click draw to draw 
+
  ![image](https://github.com/user-attachments/assets/2da4c0b5-f75b-429e-802f-b0855d5e632f)
+ 
 Click "Clear drawing"
-![image](https://github.com/oytisa/NRTLCTS/assets/25427373/ed44f22d-a4d7-4510-bd5e-16d9141c79d4)
+
+![image](https://github.com/oytisa/NRTLCTS/assets/25427373/ed44f22d-a4d7-4510-bd5e-16d9141c79d4) 
+
 ## Near Real Time change monitoring
 The near real time shows BER level exploring of landscape changes at monthly level.
 ### The result can be downloaded as png, svg and csv
 ### example png: 
-![ee-chart (1)](https://github.com/oytisa/NRTLCTS/assets/25427373/3b36d66f-3e3d-4afb-b844-56b2f2006938)
-### example csv and user defined charts from the csv file downloaded
+
+![ee-chart (1)](https://github.com/oytisa/NRTLCTS/assets/25427373/3b36d66f-3e3d-4afb-b844-56b2f2006938) 
+
+### example csv and user defined charts from the csv file downloaded 
+
 ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/452d91ed-8e3e-4b89-9794-55f8a7a13eea)
+
 # NRT Landcover Explorer App
 $\color{#58A6FF}\textsf{\Large\&#x24D8;\kern{0.2cm}\normalsize Note}$
 The App explores the project area landscape level landuse. It displays top-1 mode composite with probability hillshade at higher zoom levels for specified date range. Click the map to view time series of class probabilities. Click the time series chart to load single-date prediction and corresponding S2 image.
 This guide explains how to explore landscape level landuse using the NRT Landcover Explorer app. By following the steps, users can access and analyze specific information about landuse areas. It provides a concise and straightforward process for anyone interested in studying the landscape.
 Click **"Landcover Explorer"** or 
 Navigate to [https://oytisa.users.earthengine.app/view/falanduse](url). The following interface will appear.
+
 ![image](https://github.com/user-attachments/assets/a1f78bff-a52a-496e-a245-308c1ba9c16a)
+
 To see the *current landuse for* january to june 204 forexample, adjust the date range 
-click on **update**
+click on **update** 
+
   ![image](https://github.com/user-attachments/assets/929002a7-7275-4bff-8409-5d8ba242c53a)
