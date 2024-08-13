@@ -19,7 +19,6 @@ For enhanced analysis of these changes, we have developed the Sentinel-2 a pilot
  2.	Forest Cover Change Explorer
  3.	Landscape Change Explorer
 ```
-$\color{#58A6FF}\textsf{\Large\&#x24D8;\kern{0.2cm}\normalsize Note}$
 The guide also includes instructions for selecting specific zones or districts/woredas and accessing summary statistics for those areas. Overall, this guide is useful for anyone interested in studying and understanding forest cover changes in the selected ecoregions of Bale and West Arsi areas.
 
 # Forest Cover Explorer
