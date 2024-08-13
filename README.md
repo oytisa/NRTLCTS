@@ -124,8 +124,7 @@ The near real time shows BER level exploring of landscape changes at monthly lev
 
 ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/452d91ed-8e3e-4b89-9794-55f8a7a13eea)
 
-# NRT Landcover Explorer App
-$\color{#58A6FF}\textsf{\Large\&#x24D8;\kern{0.2cm}\normalsize Note}$
+# $\textcolor{Green}{\textsf{NRT Landcover Explorer App.}}$  
 The App explores the project area landscape level landuse. It displays top-1 mode composite with probability hillshade at higher zoom levels for specified date range. Click the map to view time series of class probabilities. Click the time series chart to load single-date prediction and corresponding S2 image.
 This guide explains how to explore landscape level landuse using the NRT Landcover Explorer app. By following the steps, users can access and analyze specific information about landuse areas. It provides a concise and straightforward process for anyone interested in studying the landscape.
 Click **"Landcover Explorer"** or 
