@@ -18,6 +18,7 @@ For enhanced analysis of these changes, we have developed the Sentinel-2 a pilot
  1.	Forest Cover explorer
  2.	Forest Cover Change Explorer
  3.	Landscape Change Explorer
+ 4. Landuse Explorer
 ```
 The guide also includes instructions for selecting specific zones or districts/woredas and accessing summary statistics for those areas. Overall, this guide is useful for anyone interested in studying and understanding forest cover changes in the selected ecoregions of Bale and West Arsi areas.
 
@@ -50,7 +51,7 @@ Now let’s change the woreda of interest
 ![image](https://github.com/oytisa/NRTLCTS/assets/25427373/6ae62c7d-96e1-41ef-a2b8-e487f8c3992e)
 
 # Forest Cover Change
-This application provides a visualization of the changes in selected ecoregions forest cover. It displays the geographical distribution of stable forest areas, newly gained forest areas, forest areas that have been lost, and areas that have remained non-forest.Based on the 2015 Ethiopia  new forest definition (MEF 2015) a forest is 'Land spanning more than 0.5 ha covered by trees (including bamboo) (with a minimum width of 20m or not more than two‐thirds of its length) attaining a height of more than 2m and a canopy cover of more than 20% or trees with the potential to reach these thresholds in situ in due course. The PROCESSES OF CHANGE DETECTION adopted followed the Ethiopian FRL types of land use changes; non-forest land use change to forest as gain, and forest land use change to the non-forest land use as loss.
+Forests worldwide are in a state of flux, with accelerating losses in some regions and gains in others (Hansen et al., 2013). This application provides a visualization of the changes in selected ecoregions forest cover. It displays the geographical distribution of stable forest areas, newly gained forest areas, forest areas that have been lost, and areas that have remained non-forest.Based on the 2015 Ethiopia  new forest definition (MEF 2015) a forest is 'Land spanning more than 0.5 ha covered by trees (including bamboo) (with a minimum width of 20m or not more than two‐thirds of its length) attaining a height of more than 2m and a canopy cover of more than 20% or trees with the potential to reach these thresholds in situ in due course. The PROCESSES OF CHANGE DETECTION adopted followed the Ethiopian FRL types of land use changes; non-forest land use change to forest as gain, and forest land use change to the non-forest land use as loss.
  - Click **"Forest Cover Change"** or copy this link [https://oytisa.users.earthengine.app/view/ffnf](url) and paste to browser tab.
  - Click **"Select zone"**
  -  Click **"Bale_16"**
@@ -63,10 +64,11 @@ This application provides a visualization of the changes in selected ecoregions 
  See the **Summary Statistics Chart** to the right. 
  In the figure below “Bale” ecoregion was selected showing its extent and districts represented with white polygons. The change shows the following categories
 ```
-- Stable forest (FF)
-- Lost forest (FNF)
-- Gained forest (NFF)
-- Stable non-forest (NFNF)
+- Stable forest (FF) is defined as forest stand remain forest stand or cover.
+- Lost forest (FNF)is defined as stand-replacement disturbance, or a change from a forest to non-forest state
+- Gained forest (NFF)is defined as the inverse of as the inverse of loss, or a non-forest to forest change entirely within the study period
+- Stable non-forest (NFNF) is explained as landuse other than forest land remaining non-forest landuse
+
 ```
 This is depicted in the graph as per the IPCC guidelines for biomass invetory in the AFOLU sector in the following nomenclature as shown in the consequent figure;
 - **Stable forest** = Forest land remaining Forestland
